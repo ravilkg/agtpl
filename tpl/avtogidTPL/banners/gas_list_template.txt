@@ -1,0 +1,27 @@
+<div class="col-sm-12 col-md-12 listing-item">
+    <div class="thumbnail">
+        <div class="row">
+            <div class="col-sm-3 col-xs-12">
+              	<div class="GoogleAdSenseWrapper">
+                  <b> MAIN_7 </b>
+                {literal}
+		<!-- Put your AdSense code below this line -->
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- main_google_ads -->
+                <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3338505015690985"
+                            data-ad-slot="6016690556"
+                            data-ad-format="auto">
+                </ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+		<!-- The end of AdSense code -->
+				{/literal}
+				</div>
+            </div>
+
+        </div>
+    </div>
+</div>
